@@ -1,2 +1,2 @@
 # clustering-techniques
-Clustering Techniques
+The Google Colab Notebook in this repository details the implementation for various clustering techniques.
